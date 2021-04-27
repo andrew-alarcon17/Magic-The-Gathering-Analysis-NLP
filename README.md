@@ -39,6 +39,6 @@ Creatures that were labeled as legendary were correctly predicted as rare cards 
 Below are common words found in rare legendary creatures.
 
 
-<img src="https://github.com/andrew-alarcon17/Movie_Genre_Prediction/blob/main/Movie_Plots_Vis/Heatmap_crop.png" width="500">
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20NLP/Rare%20Legendaries%20Word%20Cloud.png" width="400">
 
 
