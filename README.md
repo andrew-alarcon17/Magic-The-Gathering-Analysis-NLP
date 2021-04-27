@@ -25,7 +25,7 @@ Creatures of All Colors (Including Colorless and Multi-Colored)
 
 Power and Toughness of All Creatures:
 
-<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/P%26T%20Scatter.png" width="300"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/P%26T%20Scatter.png" width="400"> 
 
 
 Power Distribution of Legendary Creatures by Color:
