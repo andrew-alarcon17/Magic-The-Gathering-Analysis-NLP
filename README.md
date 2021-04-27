@@ -29,8 +29,13 @@ Power Distribution of Legendary Creatures by Color:
 
 
 
-Power Distribution of Legendary Creatures by Color:
+Toughness Distribution of Legendary Creatures by Color:
 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Toughness/Forest%20Toughness.png" width="180"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Toughness/Island%20Toughness.png" width="180"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Toughness/Mountain%20Toughness.png" width="180"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Toughness/Plains%20Toughness.png" width="180"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Toughness/Swamp%20Toughness.png" width="180"> 
 
 ## Findings:
 Creatures that were labeled as legendary were correctly predicted as rare cards 86.7% of the time based on the text in its description through the integration of a Logistic Regression Tf-Idf model. In the data analyzing portion of this project, I found that it is not only power and toughness that decides how rare a card may be, so I decided to look further into the descriptions of these creatures. Often, a creature's abilities have the power to alter the bahavior of many turns, and entire games at times.
