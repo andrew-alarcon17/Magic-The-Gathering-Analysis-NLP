@@ -23,6 +23,11 @@ Creatures of All Colors (Including Colorless and Multi-Colored)
 
 <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Multi%20%26%20Colorless%20Creatures.png" width="300"> 
 
+Power and Toughness of All Creatures:
+
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/P%26T%20Scatter.png" width="300"> 
+
+
 Power Distribution of Legendary Creatures by Color:
 
 <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Forest%20Power.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Island%20Power.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Mountain%20Power.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Plains%20Power.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Swamp%20Power.png" width="180"> 
