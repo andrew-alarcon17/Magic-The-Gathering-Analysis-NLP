@@ -16,8 +16,8 @@ Throughout all of the 5 colors of MTG, the power and toughness of legendary crea
 Mana Distributions of All Cards:
 
 
-<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Forest.png" width="200"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Island.png" width="200"> 
-<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Mountain.png" width="200"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Plains.png" width="200"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Swamp.png" width="200"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Forest.png" width="150"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Island.png" width="150"> 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Mountain.png" width="150"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Plains.png" width="150"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Swamp.png" width="150"> 
 
 
 
