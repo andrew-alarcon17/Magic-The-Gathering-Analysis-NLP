@@ -1,1 +1,1 @@
-# Magic-The-Gathering-Analysis-NLP
+# Magic-The-Gathering-Analysis-and-NLP
