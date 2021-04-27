@@ -15,16 +15,21 @@ Throughout all of the 5 colors of MTG, the power and toughness of legendary crea
 
 Mana Distributions of All Cards:
 
-
 <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Forest.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Island.png" width="180"> 
 <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Mountain.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Plains.png" width="180"> <img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Swamp.png" width="180"> 
 
 
-
 Creatures of All Colors (Including Colorless and Multi-Colored)
 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Multi%20%26%20Colorless%20Creatures.png" width="180"> 
 
-Power and Toughness of Legendary Creatures:
+Power Distribution of Legendary Creatures by Color:
+
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Legendary%20Power/Forest%20Power.png" width="180"> 
+
+
+
+Power Distribution of Legendary Creatures by Color:
 
 
 ## Findings:
