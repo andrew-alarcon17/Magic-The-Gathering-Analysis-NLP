@@ -16,6 +16,9 @@ Throughout all of the 5 colors of MTG, the power and toughness of legendary crea
 Mana Distributions of All Cards:
 
 
+<img src="https://github.com/andrew-alarcon17/Magic-The-Gathering-Analysis-NLP/blob/main/Charts/MTG%20Analyzing/Mana%20Distr/Forest.png" width="200">
+
+
 
 Creatures of All Colors (Including Colorless and Multi-Colored)
 
